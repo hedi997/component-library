@@ -1,0 +1,22 @@
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.small {
+  width: 70px;
+  height: 70px;
+}
+
+.big {
+  width: 150px;
+  height: 150px;
+}
+
+.disabledTrue {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

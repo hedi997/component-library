@@ -1,0 +1,13 @@
+.size {
+  width: 600px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.orange {
+  background-color: orange;
+}
